@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1734279707 source:c:\users\roma yana\desktop\strukturdata_semester_3\tubes std mll\main.cpp
+	<iostream>
+	"mll.h"
+
+1734279742 source:c:\users\roma yana\desktop\strukturdata_semester_3\tubes std mll\mll.cpp
+	<iostream>
+	"mll.h"
+
+1734279707 c:\users\roma yana\desktop\strukturdata_semester_3\tubes std mll\mll.h
+	<iostream>
+

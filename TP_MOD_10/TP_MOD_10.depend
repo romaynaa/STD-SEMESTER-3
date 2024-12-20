@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1731831599 source:c:\users\roma yana\desktop\praktikumstds3\tp_mod_10\main.cpp
+	<iostream>
+	"flight.h"
+
+1731831599 source:c:\users\roma yana\desktop\praktikumstds3\tp_mod_10\flight.cpp
+	<iostream>
+	"flight.h"
+
+1731827784 c:\users\roma yana\desktop\praktikumstds3\tp_mod_10\flight.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1733718244 source:c:\users\roma yana\desktop\strukturdata_semester_3\tp_15-tree\main.cpp
+	<iostream>
+	"tree.h"
+
+1733842993 source:c:\users\roma yana\desktop\strukturdata_semester_3\tp_15-tree\tree.cpp
+	<iostream>
+	"tree.h"
+
+1733717542 c:\users\roma yana\desktop\strukturdata_semester_3\tp_15-tree\tree.h
+	<iostream>
+

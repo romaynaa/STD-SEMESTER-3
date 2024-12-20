@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1734442666 source:c:\users\roma yana\desktop\strukturdata_semester_3\graph\graph.cpp
+	<iostream>
+	"graph.h"
+
+1584205420 source:c:\users\roma yana\desktop\strukturdata_semester_3\graph\main.cpp
+	<iostream>
+
+1734442865 c:\users\roma yana\desktop\strukturdata_semester_3\graph\graph.h
+	<iostream>
+

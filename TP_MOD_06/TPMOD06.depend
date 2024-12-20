@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1729434018 source:c:\users\roma yana\desktop\praktikumstds3\tpmod06\main.cpp
+	<iostream>
+	"DLL.h"
+
+1729433723 source:c:\users\roma yana\desktop\praktikumstds3\tpmod06\dll.cpp
+	<iostream>
+	"DLL.h"
+
+1729431787 c:\users\roma yana\desktop\praktikumstds3\tpmod06\dll.h
+	<iostream>
+

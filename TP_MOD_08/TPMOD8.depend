@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1731061018 source:c:\users\roma yana\desktop\praktikumstds3\tpmod8\main.cpp
+	"QueueVaksin.h"
+
+1731059709 c:\users\roma yana\desktop\praktikumstds3\tpmod8\queuevaksin.h
+	<iostream>
+
+1731060911 source:c:\users\roma yana\desktop\praktikumstds3\tpmod8\queuevaksin.cpp
+	"QueueVaksin.h"
+

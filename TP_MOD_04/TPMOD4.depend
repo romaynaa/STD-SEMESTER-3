@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728131151 source:c:\users\roma yana\desktop\praktikumstds3\tpmod4\list.cpp
+	<iostream>
+	"list.h"
+
+1728131151 c:\users\roma yana\desktop\praktikumstds3\tpmod4\list.h
+
+1728137268 source:c:\users\roma yana\desktop\praktikumstds3\tpmod4\main.cpp
+	<iostream>
+	"list.h"
+

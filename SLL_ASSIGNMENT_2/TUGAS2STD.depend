@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1728307215 source:c:\users\roma yana\desktop\praktikumstds3\tugas2std\main.cpp
+	<iostream>
+	"SLL.h"
+
+1728304041 source:c:\users\roma yana\desktop\praktikumstds3\tugas2std\sll.cpp
+	<iostream>
+	"SLL.h"
+
+1728302799 c:\users\roma yana\desktop\praktikumstds3\tugas2std\sll.h
+

@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1730038678 source:c:\users\roma yana\desktop\praktikumstds3\tpmod_7_bag02\main.cpp
+	<iostream>
+	"S.h"
+
+1730038678 c:\users\roma yana\desktop\praktikumstds3\tpmod_7_bag02\s.h
+	<iostream>
+

@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1732451375 source:c:\users\roma yana\desktop\praktikumstds3\tp_mod_11\main.cpp
+	<iostream>
+	"graf.h"
+
+1732452268 source:c:\users\roma yana\desktop\praktikumstds3\tp_mod_11\graf.cpp
+	<iostream>
+	"graf.h"
+
+1732452268 c:\users\roma yana\desktop\praktikumstds3\tp_mod_11\graf.h
+	<iostream>
+
